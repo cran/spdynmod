@@ -1,5 +1,6 @@
-rpath = system.file("extdata",package="spdynmod")
-#rpath = '/net/netapp2/H05_Homes/majavie/spdynmod/inst/extdata'
+#rpath = system.file("extdata",package="spdynmod")
+#require(spdynmod)
+rpath = paste(find.package('spdynmod'),'/extdata',sep='')
 
 input.Data <- c()
  temp <- read.csv(paste(rpath,'/mc_dynmodv2_7_Data_IPRH.csv',sep=''))
@@ -12,7 +13,7 @@ inputData <- function(x,name,datalist=input.Data) {
 	minT <- min(df[,1],na.rm=T)
 	maxT <- max(df[,1],na.rm=T)
 	if (x < minT | x > maxT) {
-		l <- lm(get(colnames(df)[2])~poly(get(colnames(df)[1]),3),data=df)
+		l <- stats::lm(get(colnames(df)[2])~poly(get(colnames(df)[1]),3),data=df)
 		do <- data.frame(x); colnames(do) <- colnames(df)[1]
 		o <- predict(l,newdata=do)[[1]]	} else {
 	t1 <- max(df[which(df[,1] <= x),1])
