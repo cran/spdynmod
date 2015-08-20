@@ -9,8 +9,8 @@ Description: A spatio-dynamic modelling package that focuses on three
     distribution of plant communities. Ongoing developments of the package
     focus on offering easy to use tools for creating other spatio-dynamic
     models.
-Version: 1.1
-Date: 2015-07-14
+Version: 1.1.1
+Date: 2015-08-18
 Author: Javier Martinez-Lopez <javi.martinez.lopez@gmail.com>, Babak Naimi
     <naimi.b@gmail.com>, Julia Martinez-Fernandez <juliamf@um.es>
 Maintainer: Javier Martinez-Lopez <javi.martinez.lopez@gmail.com>
@@ -24,6 +24,6 @@ Imports: deSolve, animation
 Depends: raster
 Suggests: knitr, roxygen2, testthat
 NeedsCompilation: no
-Packaged: 2015-07-16 16:18:01 UTC; javier
+Packaged: 2015-08-18 19:36:18 UTC; javier
 Repository: CRAN
-Date/Publication: 2015-07-16 23:13:58
+Date/Publication: 2015-08-20 00:15:51
