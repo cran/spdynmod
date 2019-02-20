@@ -1,4 +1,4 @@
-dc781cffc582b42b325e0fcb271b5582 *DESCRIPTION
+c1ce843800e303d0d56ff40181b63cfb *DESCRIPTION
 2ac4f0efb7b95e7a978cb8c3a0157a14 *NAMESPACE
 105a6d603e525553654164cddff7f667 *NEWS
 626fd00e0add0efc969ed021f627773e *R/animate_bs.R
@@ -11,12 +11,12 @@ bd431027775b07af9ec86ad676df362a *R/mc_dynmodv2_7_functions.R
 eca1ae41c7a139792e8fc0f47a3e074f *R/neigh_cell.R
 d67d0a9e2376c3585a265f0599a0e461 *R/plot_maps.R
 68d88b6244dfee3dffd4d5f1c0f9c387 *R/rnd_init_maps.R
-6de978279049810e96cb7177f9ed50ce *R/run_model.R
+1e395992bfa39b1bb162c4529aa19af3 *R/run_model.R
 a479e2becf6cee0c52362482251ca444 *R/spdynmod-package.r
-382c573f50fa34238bbf2102aed032bd *R/spdynmod.R
-c11b488ccb8c6a736d9d56ecf54acdcf *build/vignette.rds
+29d5fea829ad5b78aba0693ff3616a42 *R/spdynmod.R
+c9b8406395c7200d3d0cf4efec560d0a *build/vignette.rds
 7e3f0bb5e4141e98a928f1c61708ebcc *inst/doc/isem2013_jml.Rnw
-4244c12d1ba37435187858baaddd9df4 *inst/doc/isem2013_jml.pdf
+f0610b2ebfc24d33ac7c803ef8ee3cb3 *inst/doc/isem2013_jml.pdf
 bfa1342d00ed43cba7ef9cca31f52df8 *inst/extdata/log_cr10_acum_rm_t1_aver.asc
 24fe44b9708d868d0d9cf9174643c7cf *inst/extdata/mc84_1_reclass.asc
 51bafdcb576ad5b3d3d13f7aa8627c6a *inst/extdata/mc84_1_reclass3.asc
