@@ -1,12 +1,12 @@
-c1ce843800e303d0d56ff40181b63cfb *DESCRIPTION
-2ac4f0efb7b95e7a978cb8c3a0157a14 *NAMESPACE
+109e3a29bde8e79964c89429e159ef4a *DESCRIPTION
+bec6b119804c7fa4531b2276a4269ca5 *NAMESPACE
 105a6d603e525553654164cddff7f667 *NEWS
 626fd00e0add0efc969ed021f627773e *R/animate_bs.R
 ab4cb0d3e8d7d22b9e914208c41234f0 *R/animate_model.R
 71a6ca06b0890f9f36b6aa5cda28b8ca *R/animate_rb.R
 3e1c67dfd06bfbb6a1831fad72dc4d82 *R/animate_sm.R
 6f6307de6c55c689e9588f2f537aa9ac *R/animate_ss.R
-bd431027775b07af9ec86ad676df362a *R/mc_dynmodv2_7_functions.R
+14fa2534d259c8277f189deed782e1df *R/mc_dynmodv2_7_functions.R
 12bd6c44be5aa2137bcab570a10ea17d *R/mrgf.R
 eca1ae41c7a139792e8fc0f47a3e074f *R/neigh_cell.R
 d67d0a9e2376c3585a265f0599a0e461 *R/plot_maps.R
@@ -16,7 +16,7 @@ a479e2becf6cee0c52362482251ca444 *R/spdynmod-package.r
 29d5fea829ad5b78aba0693ff3616a42 *R/spdynmod.R
 c9b8406395c7200d3d0cf4efec560d0a *build/vignette.rds
 7e3f0bb5e4141e98a928f1c61708ebcc *inst/doc/isem2013_jml.Rnw
-f0610b2ebfc24d33ac7c803ef8ee3cb3 *inst/doc/isem2013_jml.pdf
+5f6ff1ee8285a2439a396a9554934588 *inst/doc/isem2013_jml.pdf
 bfa1342d00ed43cba7ef9cca31f52df8 *inst/extdata/log_cr10_acum_rm_t1_aver.asc
 24fe44b9708d868d0d9cf9174643c7cf *inst/extdata/mc84_1_reclass.asc
 51bafdcb576ad5b3d3d13f7aa8627c6a *inst/extdata/mc84_1_reclass3.asc

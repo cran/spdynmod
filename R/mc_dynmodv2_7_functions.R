@@ -1,14 +1,14 @@
-#rpath = system.file("extdata",package="spdynmod")
+##rpath = system.file("extdata",package="spdynmod")
 #require(spdynmod)
-rpath = paste(find.package('spdynmod'),'/extdata',sep='')
+#rpath = paste(find.package('spdynmod'),'/extdata',sep='')
 
-input.Data <- c()
- temp <- read.csv(paste(rpath,'/mc_dynmodv2_7_Data_IPRH.csv',sep=''))
- temp <- list(IPRH = temp)
- input.Data <- c(input.Data, temp)
-rm(temp)
+input.Data <- function() {
+    rpath <- paste(find.package('spdynmod'),'/extdata',sep='')
+    list(IPRH = read.csv(paste(rpath,'/mc_dynmodv2_7_Data_IPRH.csv',sep='')))
+}
 
-inputData <- function(x,name,datalist=input.Data) {
+inputData <- function(x,name,datalist=input.Data()) {
+	rpath = paste(find.package('spdynmod'),'/extdata',sep='')
 	df=datalist[[name]]
 	minT <- min(df[,1],na.rm=T)
 	maxT <- max(df[,1],na.rm=T)
