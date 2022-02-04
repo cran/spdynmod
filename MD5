@@ -1,4 +1,4 @@
-109e3a29bde8e79964c89429e159ef4a *DESCRIPTION
+e2e649fc5b804120f38326b2556f1055 *DESCRIPTION
 bec6b119804c7fa4531b2276a4269ca5 *NAMESPACE
 105a6d603e525553654164cddff7f667 *NEWS
 626fd00e0add0efc969ed021f627773e *R/animate_bs.R
@@ -14,9 +14,9 @@ d67d0a9e2376c3585a265f0599a0e461 *R/plot_maps.R
 1e395992bfa39b1bb162c4529aa19af3 *R/run_model.R
 a479e2becf6cee0c52362482251ca444 *R/spdynmod-package.r
 29d5fea829ad5b78aba0693ff3616a42 *R/spdynmod.R
-c9b8406395c7200d3d0cf4efec560d0a *build/vignette.rds
-7e3f0bb5e4141e98a928f1c61708ebcc *inst/doc/isem2013_jml.Rnw
-5f6ff1ee8285a2439a396a9554934588 *inst/doc/isem2013_jml.pdf
+470dd622430151cfbebfedb6014d43bc *build/vignette.rds
+cdc6c5e344c50eca3ae976ea1617758e *inst/doc/isem2013_jml.Rnw
+f2e3a554f96a2e6e1a39a75798a04ee3 *inst/doc/isem2013_jml.pdf
 bfa1342d00ed43cba7ef9cca31f52df8 *inst/extdata/log_cr10_acum_rm_t1_aver.asc
 24fe44b9708d868d0d9cf9174643c7cf *inst/extdata/mc84_1_reclass.asc
 51bafdcb576ad5b3d3d13f7aa8627c6a *inst/extdata/mc84_1_reclass3.asc
@@ -72,4 +72,4 @@ b2927c693469511c63bae8109df4b560 *vignettes/figures/neighborhood2.png
 41d9b2de8577472fc4cff946fc9a46f4 *vignettes/figures/rstack_compar.png
 b8adf8d98958ab3edc64822b2cbc7a9e *vignettes/figures/val_all_areas.png
 3f29c036605304dc902b6035f091298c *vignettes/figures/vegmaps_mc.png
-7e3f0bb5e4141e98a928f1c61708ebcc *vignettes/isem2013_jml.Rnw
+cdc6c5e344c50eca3ae976ea1617758e *vignettes/isem2013_jml.Rnw

@@ -28,7 +28,7 @@
 \usefonttheme{serif}
 \usecolortheme{rose}  
 \usetheme{Goettingen}
-\hypersetup{colorlinks=true, linkcolor=Blue, urlcolor=Blue}
+\hypersetup{colorlinks=true, linkcolor=blue, urlcolor=blue}
 
 \title[Wetland model]{Spatio-temporal dynamic modeling of plant communities responses to hydrological pressures in a semiarid Mediterranean wetland}
 \author[ISEM 2013]{J. Mart{\'i}nez-L{\'o}pez$^{1}$, J. Mart{\'i}nez-Fern{\'a}ndez$^{1,2}$, B. Naimi$^{3}$, M.F. Carre{\~n}o$^{1}$ and M.A. Esteve$^{1}$}
